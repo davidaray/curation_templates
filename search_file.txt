@@ -1,0 +1,6 @@
+*Denovo_Non_LTR_*#*
+*Helitron_*#*
+*Homology_Non_LTR_*#*
+*LTR_*_LTR#*
+*LTR_*_INT#*
+*TIR_*#*
